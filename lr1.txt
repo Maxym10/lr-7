@@ -1,16 +1,12 @@
 include <iostream>
 #include"windows.h"
-
 using namespace std;
-//коментар
 int main()
+//коментар
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-
     cout << "привіт,Дурлеску Максим\n";
     system("pause");
-
-    return 0;
+    return 0;//коментар
 }
-//коментар
